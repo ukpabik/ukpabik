@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Kelechi 👋</h1>
+<h1 align="center">👨‍💻</h1>
 
 <!-- Subheading -->
 <p align="center">
@@ -15,14 +15,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-### About Me
-
-- 💻 I'm Kelechi, passionate about computers and technology!
-- 🎓 Studying **Computer Science** at **UNC Chapel Hill**.
-- 🎯 Aiming to create impactful and user-centered applications.
 
 ---
 
