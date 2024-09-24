@@ -21,21 +21,22 @@
 
 #### Languages:
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JavaScript/javascript2.svg" alt="JavaScript" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Node.js/nodejs.svg" alt="Node.js" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python.svg" alt="Python" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c.svg" alt="C" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQL/sql.svg" alt="SQL" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql.svg" alt="PostgreSQL" height="30" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 #### Technologies:
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react.svg" alt="React" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git.svg" alt="Git" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github.svg" alt="GitHub" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html.svg" alt="HTML5" height="30" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css.svg" alt="CSS3" height="30" />
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
