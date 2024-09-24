@@ -41,17 +41,5 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ukpabik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukpabik&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐️ From [Kelechi](https://github.com/ukpabik)
 
