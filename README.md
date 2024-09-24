@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👨‍💻</h1>
+<h1 align="center">Hi, I'm Kelechi. 👨‍💻</h1>
 
 <!-- Subheading -->
 <p align="center">
