@@ -17,7 +17,7 @@
 </p>
 
 ---
-### Technologies & Tools
+### Languages and Tech
 
 #### Languages:
 
