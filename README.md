@@ -1,6 +1,8 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Kelechi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-
+<h1 align="center">Hi there, I'm Kelechi!</h1>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThycWhhdmZ6a3ZlNzJrczUycjJjdnU1MWl1NnVuaTE2bGN6anJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.webp" width="90px" />
+</p>
 
 ## 👨‍💻 About Me
 
