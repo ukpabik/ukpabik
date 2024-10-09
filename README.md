@@ -10,7 +10,7 @@
 
 - 🎓 Junior currently studying **Computer Science** and **Statistics** at the **University of North Carolina at Chapel Hill**.
 - ⚔️ I am most experienced in backend and full-stack development.
-- 🌱 Always looking for ways to deepen my knowledge, build efficient projects, and effectively become an amazing programmer.
+- 🌱 Just a person looking to deepen their knowledge of software, build efficient projects, and effectively become an amazing programmer.
 
 
 
