@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a junior currently studying **Computer Science** and **Statistics** at the **University of North Carolina at Chapel Hill**.
-- 🔧 Currently a Backend Developer for [App Team Carolina](https://appteamcarolina.com/), focusing on building scalable, secure backend systems for mobile applications.
+- 🎓 Junior currently studying **Computer Science** and **Statistics** at the **University of North Carolina at Chapel Hill**.
+- ⚔️ I am most experienced in backend and full-stack development.
 
 
 
