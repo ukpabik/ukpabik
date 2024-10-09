@@ -1,7 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Kelechi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
----
 
 ## 👨‍💻 About Me
 
@@ -13,15 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Backend+Developer;Full+Stack+Engineer;App+Team+Carolina" alt="Typing SVG" />
 </p>
 
-<!-- Social Media Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kelechi-ukpabi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kelechiukp@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ## 🛠️ Skills
 
@@ -47,3 +37,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+
+## 📲 Connect with Me!
+<p align="left">
+  Email: <a href="mailto:kelechiukp@gmail.com">kelechiukp@gmail.com</a>
+</p>
+<p align="left">
+  LinkedIn: <a href="https://linkedin.com/in/kelechi-ukpabi">https://linkedin.com/in/kelechi-ukpabi</a>
+</p>
